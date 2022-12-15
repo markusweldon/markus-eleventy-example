@@ -18,7 +18,7 @@
     "@layer0/cli": "^4.13.7",
     "@layer0/core": "^4.13.7",
     "@layer0/devtools": "^4.13.7",
-    "@layer0/prefetch": "^4.13.7",
+    "@layer0/prefetch": "^4.19.7",
     "luxon": "^1.26.0",
     "markdown-it": "^12.1.0",
     "markdown-it-anchor": "^8.1.2"
